@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+scripts/__pycache__/
+scripts/shared/__pycache__/
+/.idea
+/scripts/.idea
+/scripts/.vscode
